@@ -11,7 +11,7 @@
 </table>
 <p>
 - 🎓 Education:  
-  <ins>@Pamantasan ng Lungsod ng Maynila</ins> [https://plm.edu.ph/]
+  [Pamantasan ng Lungsod ng Maynila](https://plm.edu.ph/)
 -📜 Recognitions & Awards 
   - Consistent Dean's & President's Lister
   - SumoBot Competition Runner Up (I handled the Software and Hardware) 
