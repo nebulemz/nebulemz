@@ -10,7 +10,7 @@
   </tr>
 </table>
 - 🎓 Education:  
-  - [Pamantasan ng Lungsod ng Maynila](https://plm.edu.ph/)
+  [@Pamantasan ng Lungsod ng Maynila](https://plm.edu.ph/)  
 
 - 📜 Recognitions & Awards:  
   - Consistent Dean's & President's Lister  
