@@ -1,5 +1,5 @@
 ## Hi there 👋 It's me Lem :) Your friendly Software Engineer! 
-<table align="center">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://media1.tenor.com/m/UqWSWUK9UCIAAAAC/psyduck.gif" width="80" /></td>
     <td><h2>About Me</h2></td>
