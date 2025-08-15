@@ -9,7 +9,6 @@
     </td>
   </tr>
 </table>
-<p>
 - 🎓 Education:  
 @Pamantasan ng Lungsod ng Maynila [plm.edu.ph](https://plm.edu.ph/)
 -📜 Recognitions & Awards 
@@ -17,7 +16,6 @@
   - SumoBot Competition Runner Up (I handled the Software and Hardware) 
   - Magna Cumlaude Standing 1.41 GWA
   
-</p>
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 0;">
