@@ -9,7 +9,7 @@
     </td>
   </tr>
 </table>
-- 🎓 Education:  
+- 🎓 Education:                         
   - [@Pamantasan ng Lungsod ng Maynila](https://plm.edu.ph/)  
 
 - 📜 Recognitions & Awards:  
