@@ -18,7 +18,7 @@ I major in Information Technology 💻 (Magna Cum Laude Standing) @Pamantasan ng
       <h1>Socials</h1>
     </td>
     <td style="border: none; padding: 0;">
-      <img src="https://media1.tenor.com/m/UqWSWUK9UCIAAAAC/psyduck.gif" width="80">
+      <img src="https://www.pinterest.com/pin/kirby--591308626090590430/" width="80">
     </td>
   </tr>
 </table>
