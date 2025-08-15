@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Lem :) Your friendly Software Engineer! 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Lem,+Your+Friendly+Software+Engineer!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
