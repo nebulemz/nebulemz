@@ -32,11 +32,9 @@
   <img src="https://media.tenor.com/1u2Ec4YuB7wAAAAm/yumereborn-eevee.webp" width="100" height="80" style="vertical-align: middle; margin-left: 10px;"> 
   <img src="https://media.tenor.com/ps8MlY9M5TIAAAAi/cute-pokemon.gif" width="100" height="80" style="vertical-align: middle; margin-left: 10px;"> 
   <img src="https://media.tenor.com/B5oRa2uSYfEAAAAi/notlikeduck-duck.gif" width="80" style="vertical-align: middle; margin-left: 10px;"> 
-  <img src="https://media.tenor.com/7c-SsbAcK9oAAAAi/pok%C3%A9mon-schildkr%C3%B6te.gif" width="80" style="vertical-align: middle; margin-left: 10px;"> 
   <img src="https://media.tenor.com/t23gPPRJKTMAAAAi/kirby-on-a-warp-star.gif" width="100" height="150" style="vertical-align: middle; margin-left: 10px;"> 
   <img src="https://media.tenor.com/b87Ur_ijFF0AAAAm/char.webp" width="100" height="150" style="vertical-align: middle; margin-left: 10px;"> 
   <img src="https://media.tenor.com/q58cc7vZWWkAAAAm/mini-impact-miniimpact.webp" width="100" height="150" style="vertical-align: middle; margin-left: 10px;"> 
-  <img src="https://media.tenor.com/6S9w6LQV48wAAAAm/mew-spinning.webp" width="100" height="150" style="vertical-align: middle; margin-left: 10px;"> 
   <img src="https://media.tenor.com/C-6RwzvGNgEAAAAm/pokemon-so-hungry.webp" width="100" height="100" style="vertical-align: middle; margin-left: 10px;"> 
 </div>
 
