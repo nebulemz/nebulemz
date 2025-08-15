@@ -22,7 +22,10 @@ I major in Information Technology 💻 (Magna Cum Laude Standing) @Pamantasan ng
     </td>
   </tr>
 </table>
-- 📫 How to reach me: [https://www.facebook.com/john.wiwem] @Facebook [https://www.linkedin.com/in/lemuel-john-ismil-5208ba295/] @LinkedIn
+
+- 📫 How to reach me: 
+@Facebook [https://www.facebook.com/john.wiwem] @Facebook 
+@LinkedIn [https://www.linkedin.com/in/lemuel-john-ismil-5208ba295/]
 
 
 - 🔭 I’m currently working on JavaSpringBoot || React || AWS Based Project 
