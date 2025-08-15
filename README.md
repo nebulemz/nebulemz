@@ -19,16 +19,7 @@
   - Created 2 Machine Learning Powered Projects
 
     
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0;">
-      <h1>Socials</h1>
-    </td>
-    <td style="border: none; padding: 0;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJ4ZTZpNWVtNG0yb3hqcWhqOXR2ZW03YmNrdnV0bzdyMm1vcDQwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlIDueXmcWNTPO0/giphy.gif" width="80">
-    </td>
-  </tr>
-</table>
+
 
 - 📫 How to reach me:  
   @Facebook [john.wiwem](https://www.facebook.com/john.wiwem)  
