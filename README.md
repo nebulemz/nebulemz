@@ -10,13 +10,14 @@
   </tr>
 </table>
 - 🎓 Education:  
-  [@Pamantasan ng Lungsod ng Maynila](https://plm.edu.ph/)  
+  [Pamantasan ng Lungsod ng Maynila](https://plm.edu.ph/)  
 
 - 📜 Recognitions & Awards:  
   - Consistent Dean's & President's Lister  
   - SumoBot Competition Runner Up (I handled the Software and Hardware)  
   - Magna Cum Laude Standing — 1.41 GWA
-  
+  - Created 2 Machine Learning Powered Projects
+    
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 0;">
@@ -31,7 +32,7 @@
 - 📫 How to reach me:  
   @Facebook [john.wiwem](https://www.facebook.com/john.wiwem)  
   @LinkedIn [Lemuel John Ismil](https://www.linkedin.com/in/lemuel-john-ismil-5208ba295/)
-
+  
 - 🔭 I’m currently working on JavaSpringBoot || React || AWS Based Project 
 - 🌱 I’m currently learning SpringBoot and AWS, GCP
 - 💬 Ask me about Life and I will make sure to answer you with sense.
