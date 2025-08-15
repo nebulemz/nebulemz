@@ -9,10 +9,14 @@
     </td>
   </tr>
 </table>
-
+<p>
 I major in Information Technology 💻 @[Pamantasan ng Lungsod ng Maynila](https://plm.edu.ph/)
--
-
+-📜 Recognitions & Awards 
+  - Consistent Dean's & President's Lister
+  - SumoBot Competition Runner Up (I handled the Software and Hardware) 
+  - Magna Cumlaude Standing 1.41 GWA
+  
+</p>
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 0;">
