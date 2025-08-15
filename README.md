@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Lem,+Your+Friendly+Software+Engineer!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi+I%27m+Lem,+Your+Friendly+Software+Engineer!;Welcome+to+my+profile!&duration=7000&pause=1200)](https://git.io/typing-svg)
 
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
