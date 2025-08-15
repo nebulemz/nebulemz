@@ -38,8 +38,9 @@
     </td>
   </tr>
 </table>
-- 📫 How to reach me:  
-  @Facebook [john.wiwem](https://www.facebook.com/john.wiwem)  
-  @LinkedIn [Lemuel John Ismil](https://www.linkedin.com/in/lemuel-john-ismil-5208ba295/)
+
+- 📫 **How to reach me:**  
+  - @Facebook — [john.wiwem](https://www.facebook.com/john.wiwem)  
+  - @LinkedIn — [Lemuel John Ismil](https://www.linkedin.com/in/lemuel-john-ismil-5208ba295/)
   
 
