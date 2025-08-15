@@ -2,12 +2,10 @@
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 0;">
-            <h1>About Me</h1>
-
+      <h1>About Me</h1>
     </td>
     <td style="border: none; padding: 0;">
-          <img src="https://media1.tenor.com/m/UqWSWUK9UCIAAAAC/psyduck.gif" width="80">
-
+      <img src="https://media1.tenor.com/m/UqWSWUK9UCIAAAAC/psyduck.gif" width="80">
     </td>
   </tr>
 </table>
