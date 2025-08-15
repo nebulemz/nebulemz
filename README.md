@@ -10,7 +10,8 @@
   </tr>
 </table>
 <p>
-I major in Information Technology 💻 at <ins>@Pamantasan ng Lungsod ng Maynila</ins> — `https://plm.edu.ph/`
+- 🎓 Education:  
+  <ins>@Pamantasan ng Lungsod ng Maynila</ins> [https://plm.edu.ph/]
 -📜 Recognitions & Awards 
   - Consistent Dean's & President's Lister
   - SumoBot Competition Runner Up (I handled the Software and Hardware) 
