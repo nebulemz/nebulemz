@@ -10,7 +10,8 @@
   </tr>
 </table>
 
-I major in Information Technology 💻 (Magna Cum Laude Standing) [Pamantasan ng Lungsod ng Maynila](https://plm.edu.ph/)
+I major in Information Technology 💻 @[Pamantasan ng Lungsod ng Maynila](https://plm.edu.ph/)
+-
 
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
