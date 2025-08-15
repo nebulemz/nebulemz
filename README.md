@@ -1,5 +1,5 @@
 ## Hi there 👋 It's me Lem :) Your friendly Software Engineer! 
-<img src="[https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif](https://tenor.com/view/mmmm-psyduck-deliciousdaywithpokemon-pokemon-smell-gif-462782460861333041)" width="80" /> <h1 style="display:inline">About Me</h1>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="80" /> <h1 style="display:inline">About Me</h1>
 
 I major in Information Technology (Magna Cum Laude Standing) @[Pamantasan ng Lungsod ng Maynila]
 
