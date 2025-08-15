@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 It's me Lem :) Your friendly Software Engineer! 
+<img src="[https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif](https://tenor.com/view/mmmm-psyduck-deliciousdaywithpokemon-pokemon-smell-gif-462782460861333041)" width="80" /> <h1 style="display:inline">About Me</h1>
 
-<!--
-**nebulemz/nebulemz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I major in Information Technology (Magna Cum Laude Standing) @[Pamantasan ng Lungsod ng Maynila]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on JavaSpringBoot || React || AWS Based Project 
+- 🌱 I’m currently learning SpringBoot and AWS 
+- 💬 Ask me about Life and I will make sure to answer you with sense.
+- 📫 How to reach me: [https://www.facebook.com/john.wiwem] @Facebook [https://www.linkedin.com/in/lemuel-john-ismil-5208ba295/] @LinkedIn
+- 🌐 Web Technologies: C# (ASP.NET WebForms, Stored Procedures), Native PHP, Laravel (Livewire), Java (Spring Boot), C++, JavaScript, TypeScript, Ajax, JQuery
+- 🎨 Frontend: React, CSS, Bootstrap
+- 🗄️ Databases: SQL, MS SQL Server, AWS, GCP
+- ⚡ Fun fact: I love Coding and its challenges that awaits me ;) 
 -->
