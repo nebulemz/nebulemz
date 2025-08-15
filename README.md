@@ -1,8 +1,8 @@
 ## Hi there 👋 It's me Lem :) Your friendly Software Engineer! 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<span>
     <img src="https://media1.tenor.com/m/UqWSWUK9UCIAAAAC/psyduck.gif" width="80" />
-    <h3>About Me</h3>
-</div>
+    <h2 style="display:inline;">About Me</h2>
+</span>
 I major in Information Technology (Magna Cum Laude Standing) @[Pamantasan ng Lungsod ng Maynila]
 
 - 🔭 I’m currently working on JavaSpringBoot || React || AWS Based Project 
