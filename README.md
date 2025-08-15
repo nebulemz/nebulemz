@@ -1,4 +1,5 @@
 ## Hi there 👋 It's me Lem :) Your friendly Software Engineer! 
+
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 0;">
@@ -9,16 +10,16 @@
     </td>
   </tr>
 </table>
-- 🎓 Education:                         
-	- [Pamantasan ng Lungsod ng Maynila](https://plm.edu.ph/)  
 
-- 📜 Recognitions & Awards:  
+- 🎓 **Education:**  
+  - [Pamantasan ng Lungsod ng Maynila](https://plm.edu.ph/)  
+
+- 📜 **Recognitions & Awards:**  
   - Consistent Dean's & President's Lister  
-  - SumoBot Competition Runner Up (I handled the Software and Hardware)  
+  - SumoBot Competition Runner Up *(I handled the Software and Hardware)*  
   - Magna Cum Laude Standing — 1.41 GWA  
   - Created 2 Machine Learning Powered Projects
 
-    
 
 
 - 📫 How to reach me:  
