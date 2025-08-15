@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Lem :) Your friendly Software Engineer! 
 <p>
   <img src="https://media1.tenor.com/m/UqWSWUK9UCIAAAAC/psyduck.gif" width="80" style="vertical-align: middle;" />
-  <span style="font-size: 5em; font-weight: 800; margin-left: 10px; margin-bottom: 20px">About Me</span>
+  <span style="font-size: 2.5em; font-weight: 800; vertical-align: middle; margin-left: 10px;">About Me</span>
 </p>
 I major in Information Technology (Magna Cum Laude Standing) @[Pamantasan ng Lungsod ng Maynila]
 
