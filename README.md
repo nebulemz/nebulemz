@@ -13,6 +13,7 @@
   - Created 2 Machine Learning Powered Projects
  
 - 🔭 I’m currently working on JavaSpringBoot || React || AWS Based Project 
+- 🔭 I’m currently working on Rust || React with AI Integration (For work).
 - 🌱 I’m currently learning SpringBoot and AWS, GCP
 - 💬 Ask me about Life and I will make sure to answer you with sense.
 - 🌐 Web Technologies: C# (ASP.NET WebForms, Stored Procedures), Native PHP, Laravel (Livewire), Java (Spring Boot), C++, JavaScript, TypeScript, Ajax, JQuery
