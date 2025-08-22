@@ -18,7 +18,7 @@
 - 💬 Ask me about Life and I will make sure to answer you with sense.
 - 🌐 Web Technologies: C# (ASP.NET WebForms, Stored Procedures), Native PHP, Laravel (Livewire), Java (Spring Boot), C++, JavaScript, TypeScript, Ajax, JQuery
 - 🎨 Frontend: React, CSS, Bootstrap
-- 🗄️ Databases: SQL, MS SQL Server, AWS
+- 🗄️ Databases: SQL, MS SQL Server, Learning more from AWS Free Tier.
 - ⚡ Fun fact: I love Coding and its challenges that awaits me ;)
   
 <div>
