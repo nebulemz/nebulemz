@@ -11,6 +11,7 @@
   - SumoBot Competition Runner Up
   - Magna Cum Laude Standing — 1.41 GWA  
   - Created 2 Machine Learning Powered Projects
+  - Wabalabadubdub
  
 - 🔭 I’m currently working on JavaSpringBoot || React || AWS Based Project 
 - 🔭 I’m currently working on Rust || React with AWS API Integration (For work).
